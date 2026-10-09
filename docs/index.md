@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hidden Berkeley
+title: Berkeley Info
 ---
 
 # Berkeley Info
